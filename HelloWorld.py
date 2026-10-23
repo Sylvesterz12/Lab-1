@@ -1,1 +1,1 @@
-print ("ET0735- Devops in AIOT")
+print ("ET0735- Devops for AIoT")
